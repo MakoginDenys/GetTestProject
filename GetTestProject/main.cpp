@@ -1,10 +1,7 @@
 #include <iostream>
 using namespace std;
-int main(int argc,char* argv[])
+int main()
 {
-	for (size_t i = 0; i < argc; i++)
-	{
-		cout << argv[i] << endl;
-	}
+	cout << "Hello world!" << endl;
 	return 0;
 }
