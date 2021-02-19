@@ -1,2 +1,3 @@
 ﻿  main.cpp
+C:\Users\IT-STEP-0\source\repos\GetTestProject\GetTestProject\main.cpp(5,23): warning C4018: <: несоответствие типов со знаком и без знака
   GetTestProject.vcxproj -> C:\Users\IT-STEP-0\source\repos\GetTestProject\Debug\GetTestProject.exe
